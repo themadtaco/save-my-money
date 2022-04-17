@@ -1,0 +1,20 @@
+{
+    "name": "Save My Money",
+    "short_name": "SaveMoney",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "theme_color": "#2E294E",
+    "background_color": "#F1E9DA",
+    "start_url": "./index.html",
+    "display": "standalone"
+}
